@@ -30,7 +30,7 @@ Este projeto visa desenvolver um veículo autônomo que pode ter seus requisitos
 * Seguidor de linha: o sistema seguidor de linha permite que o veículo percorra um caminho pré-determinado sem intervenção do operador.
 * Detectar e evitar: Permite que o veículo evite de objetos em seu caminho de maneira automática.
 
-## [Código do projeto](./codigo)
+## [Códigos do projeto](./codigo)
 
 ## Referências
 
