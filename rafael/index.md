@@ -1,4 +1,4 @@
-# Nome
+# Veículo Autônomo - Rafael
 Um veículo autônomo, também conhecido como veículo sem motorista, é aquele que é capaz de operar a si mesmo e executar as funções necessárias sem auxílio humano por meio do sensoriamento de seu arredor. É importante salientar que apesar do nome "Veículo Autônomo", o termo mais correto é veículo automatizado pois um verdadeiro veículo autônomo seria autoconciente e capaz de tomar suas próprias decisões.
 
 Para veículos destinados ao público geral, a Sociedade de Engenheiros Automotivos (SAE) define 6 níveis de automatização que variam desde totalmente manual (Nível 0) até totalmente automatizado (Nível 5):
