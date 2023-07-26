@@ -19,6 +19,19 @@ As principais aplicações para o setor industrial é do transporte de cargas co
 
 Os maiores desafios relacionados a veículos autônomos é a tecnologia, questões éticas, questões políticas e infraestrutura.
 
+## O Projeto
+
+Este projeto visa desenvolver um veículo autônomo que pode ter seus requisitos facilmente incrementados conforme a necessidade do cliente. Essa abordagem de produto permite que o consumidor final possua um dispositivo atualizado e que pode ser facilmente incorporado a novas tecnologias e melhorias disponíveis no mercado.
+
+#### Recursos e Funções:
+* Tração 4x4: Motores independentes para cada roda permitem fazer a movimentação do carro em todos os tipos de terreno.
+* Powertrain totalmente elétrico: Duas baterias LiPo permitem alta capacidade de armazenamento e zero emissões de poluentes.
+* Movimentação controlada via bluetooth: Através da comunicação bluetooth o veículo pode ser controlado remotamente por um celular ou dispositivo similar.
+* Seguidor de linha: o sistema seguidor de linha permite que o veículo percorra um caminho pré-determinado sem intervenção do operador.
+* Detectar e evitar: Permite que o veículo evite de objetos em seu caminho de maneira automática.
+
+## [Código do projeto](./codigo)
+
 ## Referências
 
 1 https://www.synopsys.com/automotive/what-is-autonomous-car.html. Acessado em 28 de agosto de 2022.
